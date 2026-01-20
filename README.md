@@ -18,3 +18,7 @@ Just do a `chaos styx install {name of your plugin}` and done
 > [!WARNING]
 >
 > for Ch-aOS to be able to install your package, it must be inside of your releases as a .whl file, Ch-aOS will reject everything else.
+
+> [!WARNING]
+>
+> Ch-aOS plugins should be as self contained as possible. Styx is dumb by design, it does not manage versions or even dependencies.
