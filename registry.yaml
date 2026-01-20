@@ -1,5 +1,6 @@
 styx:
   chaos-dots:
+    name: chaos-dots
     repo: https://github.com/Ch-aOS-Ch/chaos-dots
     about: "A Ch-aotic dotfile manager, full with declarativity and statefulness"
     version: "v0.1.1"
