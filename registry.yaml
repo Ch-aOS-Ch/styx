@@ -3,13 +3,13 @@ styx:
     name: chaos-dots
     repo: https://github.com/Ch-aOS-Ch/chaos-dots
     about: "A Ch-aotic dotfile manager, full with declarativity and statefulness."
-    version: "v0.1.1"
+    version: "v0.1.2"
 
   ch-aronte:
     name: ch-aronte
     repo: https://github.com/Ch-aOS-Ch/Ch-aronte
     about: "A Ch-aotic core plugin for managing an arch linux based system."
-    version: "v0.1.1"
+    version: "v0.1.2"
 
   chaos-secrets:
     name: chaos-secrets
